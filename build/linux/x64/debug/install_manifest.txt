@@ -1,0 +1,12 @@
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/testowy
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/mateusz/Dokumenty/Android/Testowy/testowy/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
